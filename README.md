@@ -27,4 +27,5 @@ The Patients Emergency Room Visit Report dashboard provides a comprehensive anal
 
 ## Dashboard Preview
 
-https://github.com/AjithPriyan/HealthCareAnalysis/blob/main/HealthCare%20Screenshot.png
+![HealthCare Screenshot](https://github.com/user-attachments/assets/25b62d08-8c2e-4d3f-ba83-fc8dde819175)
+
