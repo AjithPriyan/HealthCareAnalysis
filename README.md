@@ -6,15 +6,15 @@ The Patients Emergency Room Visit Report dashboard provides a comprehensive anal
 
 ## Features
 
-**Time-Based Analysis:** Track patient visits over months and years.
+1. **Time-Based Analysis:** Track patient visits over months and years.
 
-**Interactive Filtering:** Users can filter by satisfaction, referral type, and more.
+2. **Interactive Filtering:** Users can filter by satisfaction, referral type, and more.
 
-**Departmental Trends:** Breakdown of patient flow across different hospital departments.
+3. **Departmental Trends:** Breakdown of patient flow across different hospital departments.
 
-**Appointment Type Analysis:** Compare administrative vs. non-administrative visits.
+4. **Appointment Type Analysis:** Compare administrative vs. non-administrative visits.
 
-**Peak Visit Hours:** Identify high-traffic times for better staffing decisions.
+5. **Peak Visit Hours:** Identify high-traffic times for better staffing decisions.
 
 ## Insights
 
